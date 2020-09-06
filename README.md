@@ -1,3 +1,9 @@
+
+## Project Brief
+### AI News Application in React JS/Firebase with Alan AI/News API
+
+This project is a Voice Controlled React News Application - With Alan AI Voice Assistant. It demonstrate the use of React JS Potential and it's integration with an AI API fully deployed on Firebase.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
